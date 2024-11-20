@@ -101,7 +101,7 @@
 | **Autor** | alvarogrlp |
 | **Fecha** | 20/11/2024 |
 
-<img src = "Diadrama sin título.drawio(13).png">
+<img src = "Diagrama sin título.drawio(13).png">
 
 # Especificación de Casos de Uso
 
@@ -207,7 +207,7 @@
 | Fecha | 20/11/2024 |
 
 
-<img src = "Diadrama sin título.drawio(15).png">
+<img src = "Diagrama sin título.drawio(15).png">
 
 # Especificación de Casos de Uso
 
